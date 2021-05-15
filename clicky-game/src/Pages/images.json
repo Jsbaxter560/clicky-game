@@ -1,0 +1,31 @@
+[
+    {
+        "id": 100, 
+        "url":"./images/Beach.jpg",
+        "click":false
+    },
+
+    {
+        "id": 200, 
+        "url":"./images/BigSur1.jpg",
+        "click":false
+    },
+
+    {
+        "id": 300, 
+        "url":"./images/BigSur2.jpg",
+        "click":false
+    },
+
+    {
+        "id": 400, 
+        "url":"./images/Grizz.jpg",
+        "click":false
+    },
+
+    {
+        "id": 500, 
+        "url":"./images/Ridge.jpg",
+        "click":false
+    }
+]
