@@ -7,25 +7,67 @@
 
     {
         "id": 200, 
-        "url":"./images/BigSur1.jpg",
+        "url":"./images/AndiLei.jpg",
         "click":false
     },
 
     {
         "id": 300, 
-        "url":"./images/BigSur2.jpg",
+        "url":"./images/AndiPuppy.jpg",
         "click":false
     },
 
     {
         "id": 400, 
-        "url":"./images/Grizz.jpg",
+        "url":"./images/AndiRidge.jpg",
         "click":false
     },
 
     {
         "id": 500, 
-        "url":"./images/Ridge.jpg",
+        "url":"./images/AndiBed.jpg",
+        "click":false
+    },
+
+    {
+        "id": 600, 
+        "url":"./images/DodgersAndi.jpg",
+        "click":false
+    },
+
+    {
+        "id": 700, 
+        "url":"./images/JimmyTickles.jpg",
+        "click":false
+    },
+
+    {
+        "id": 800, 
+        "url":"./images/Koopa.jpg",
+        "click":false
+    },
+    
+    {
+        "id": 900, 
+        "url":"./images/KoopaEats.jpg",
+        "click":false
+    },
+
+    {
+        "id": 1000, 
+        "url":"./images/Mr.X&Jimmy.jpg",
+        "click":false
+    },
+
+    {
+        "id": 1100, 
+        "url":"./images/Mr.X.jpg",
+        "click":false
+    },
+    
+    {
+        "id": 1200, 
+        "url":"./images/NaughtyAndi.jpg",
         "click":false
     }
 ]
