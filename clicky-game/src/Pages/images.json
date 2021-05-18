@@ -1,72 +1,72 @@
 [
     {
-        "id": 100, 
+        "id": 1, 
         "url":"./images/Beach.jpg",
         "click":false
     },
 
     {
-        "id": 200, 
+        "id": 2, 
         "url":"./images/AndiLei.jpg",
         "click":false
     },
 
     {
-        "id": 300, 
+        "id": 3, 
         "url":"./images/AndiPuppy.jpg",
         "click":false
     },
 
     {
-        "id": 400, 
+        "id": 4, 
         "url":"./images/AndiRidge.jpg",
         "click":false
     },
 
     {
-        "id": 500, 
+        "id": 5, 
         "url":"./images/AndiBed.jpg",
         "click":false
     },
 
     {
-        "id": 600, 
+        "id": 6, 
         "url":"./images/DodgersAndi.jpg",
         "click":false
     },
 
     {
-        "id": 700, 
+        "id": 7, 
         "url":"./images/JimmyTickles.jpg",
         "click":false
     },
 
     {
-        "id": 800, 
+        "id": 8, 
         "url":"./images/Koopa.jpg",
         "click":false
     },
     
     {
-        "id": 900, 
+        "id": 9, 
         "url":"./images/KoopaEats.jpg",
         "click":false
     },
 
     {
-        "id": 1000, 
+        "id": 10, 
         "url":"./images/Mr.X&Jimmy.jpg",
         "click":false
     },
 
     {
-        "id": 1100, 
+        "id": 11, 
         "url":"./images/Mr.X.jpg",
         "click":false
     },
     
     {
-        "id": 1200, 
+        "id": 12, 
         "url":"./images/NaughtyAndi.jpg",
         "click":false
     }
